@@ -6,8 +6,6 @@ import jakarta.persistence.Id;
 import jakarta.persistence.ManyToOne;
 import lombok.Data;
 
-import java.util.List;
-
 @Entity
 @Data
 public class OrderDetail {
